@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1494201708 source:c:\users\raian\desktop\spaceinvader\enemy.c
+	<GL/glut.h>
+	"enemy.h"
+
+1494199994 c:\users\raian\desktop\spaceinvader\enemy.h
+
+1494205811 source:c:\users\raian\desktop\spaceinvader\main.c
+	<GL/glut.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"enemy.h"
+	"player.h"
+	"tiro.h"
+
+1494190853 c:\users\raian\desktop\spaceinvader\plano_cartesiano.h
+	<GL/glut.h>
+
+1494190724 c:\users\raian\desktop\spaceinvader\player.c
+	<GL/glut.h>
+	"player.h"
+
+1494200010 c:\users\raian\desktop\spaceinvader\player.h
+
+1493346466 c:\users\raian\desktop\spaceinvader\enemy.c
+	<GL/glut.h>
+	"enemy.h"
+
+1463070013 source:c:\users\raian\desktop\spaceinvader\plano_cartesiano.c
+	<GL/glut.h>
+	"plano_cartesiano.h"
+
+1494200151 source:c:\users\raian\desktop\spaceinvader\player.c
+	<GL/glut.h>
+	"player.h"
+
+1494199880 c:\users\raian\desktop\spaceinvader\tiro.h
+
+1494199903 source:c:\users\raian\desktop\spaceinvader\tiro.c
+	"tiro.h"
+
+1494201710 source:c:\users\ronyan\faculdade\spaceinvader\enemy.c
+	<GL/glut.h>
+	"enemy.h"
+
+1494199996 c:\users\ronyan\faculdade\spaceinvader\enemy.h
+
+1494444065 source:c:\users\ronyan\faculdade\spaceinvader\player.c
+	<GL/glut.h>
+	"player.h"
+
+1494444081 c:\users\ronyan\faculdade\spaceinvader\player.h
+
+1494199904 source:c:\users\ronyan\faculdade\spaceinvader\tiro.c
+	"tiro.h"
+
+1494199882 c:\users\ronyan\faculdade\spaceinvader\tiro.h
+
+1494544095 source:c:\users\ronyan\faculdade\spaceinvader\main.c
+	<GL/glut.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"enemy.h"
+	"player.h"
+	"tiro.h"
+
